@@ -12,3 +12,9 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+cache
+.doit.db*
+__pycache__
+output
+.ipynb_checkpoints
+.DS_Store
